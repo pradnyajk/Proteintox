@@ -71,3 +71,7 @@ The ``descriptors_output_ccc_df.csv`` file is the input file for the main predic
 - Prediction results will be saved in `predictions_output.csv` which includes predicted toxicity of FASTA sequences of proteins.
 - Prediction results contain column 'Predicted Class'. This file contains the final results (whether the FASTA sequences  are Cardiotoxic, Neurotoxic, Enterotoxic or Non-toxic). 
 
+## Citation
+If you use  **Proteintox** in your publication, consider citing the [paper](https://doi.org/10.1016/j.comtox.2025.100390):
+```
+Kamble, P.; Sharma, A.; Banerjee, A.; Pandey, S.; Garg, P. Proteintox: A multifaceted machine learning strategy for identifying cardiotoxic, neurotoxic, and enterotoxic proteins. Computational Toxicology 2025, 36, 100390. DOI: https://doi.org/10.1016/j.comtox.2025.100390.
